@@ -1,0 +1,12 @@
+Home:
+-Navbar:
+	-Masuk
+	-Daftar
+	-Tentang
+
+-Body:
+	-Masalah & Solusi
+
+-Footer:
+	-Logo
+	-Text
